@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 34c2d231088bf3d42b418d143d6527da
+timeCreated: 1526753302
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Grenade2_group1
+    100004: group1_Fireworks_Barrell
+    100006: group1_Grenade1
+    100008: group1_Grenade10
+    100010: group1_Grenade11
+    100012: group1_Grenade12
+    100014: group1_Grenade3
+    100016: group1_Grenade4
+    100018: group1_Grenade5
+    100020: group1_Grenade6
+    100022: group1_Grenade7
+    100024: group1_Grenade8
+    100026: group1_Grenade9
+    100028: group1_pCylinder16
+    100030: group1_pCylinder17
+    100032: group1_pCylinder18
+    100034: group1_pCylinder19
+    100036: group1_pCylinder20
+    100038: group1_pCylinder21
+    100040: group1_pCylinder22
+    400000: //RootNode
+    400002: Grenade2_group1
+    400004: group1_Fireworks_Barrell
+    400006: group1_Grenade1
+    400008: group1_Grenade10
+    400010: group1_Grenade11
+    400012: group1_Grenade12
+    400014: group1_Grenade3
+    400016: group1_Grenade4
+    400018: group1_Grenade5
+    400020: group1_Grenade6
+    400022: group1_Grenade7
+    400024: group1_Grenade8
+    400026: group1_Grenade9
+    400028: group1_pCylinder16
+    400030: group1_pCylinder17
+    400032: group1_pCylinder18
+    400034: group1_pCylinder19
+    400036: group1_pCylinder20
+    400038: group1_pCylinder21
+    400040: group1_pCylinder22
+    2100000: Grenade2_group1Mat
+    2100002: group1_Fireworks_BarrellMat
+    2100004: group1_Grenade1Mat
+    2100006: group1_Grenade10Mat
+    2100008: group1_Grenade11Mat
+    2100010: group1_Grenade12Mat
+    2100012: group1_Grenade3Mat
+    2100014: group1_Grenade4Mat
+    2100016: group1_Grenade5Mat
+    2100018: group1_Grenade6Mat
+    2100020: group1_Grenade7Mat
+    2100022: group1_Grenade8Mat
+    2100024: group1_Grenade9Mat
+    2100026: group1_pCylinder16Mat
+    2100028: group1_pCylinder17Mat
+    2100030: group1_pCylinder18Mat
+    2100032: group1_pCylinder19Mat
+    2100034: group1_pCylinder20Mat
+    2100036: group1_pCylinder21Mat
+    2100038: group1_pCylinder22Mat
+    2300000: Grenade2_group1
+    2300002: group1_Fireworks_Barrell
+    2300004: group1_Grenade1
+    2300006: group1_Grenade10
+    2300008: group1_Grenade11
+    2300010: group1_Grenade12
+    2300012: group1_Grenade3
+    2300014: group1_Grenade4
+    2300016: group1_Grenade5
+    2300018: group1_Grenade6
+    2300020: group1_Grenade7
+    2300022: group1_Grenade8
+    2300024: group1_Grenade9
+    2300026: group1_pCylinder16
+    2300028: group1_pCylinder17
+    2300030: group1_pCylinder18
+    2300032: group1_pCylinder19
+    2300034: group1_pCylinder20
+    2300036: group1_pCylinder21
+    2300038: group1_pCylinder22
+    3300000: Grenade2_group1
+    3300002: group1_Fireworks_Barrell
+    3300004: group1_Grenade1
+    3300006: group1_Grenade10
+    3300008: group1_Grenade11
+    3300010: group1_Grenade12
+    3300012: group1_Grenade3
+    3300014: group1_Grenade4
+    3300016: group1_Grenade5
+    3300018: group1_Grenade6
+    3300020: group1_Grenade7
+    3300022: group1_Grenade8
+    3300024: group1_Grenade9
+    3300026: group1_pCylinder16
+    3300028: group1_pCylinder17
+    3300030: group1_pCylinder18
+    3300032: group1_pCylinder19
+    3300034: group1_pCylinder20
+    3300036: group1_pCylinder21
+    3300038: group1_pCylinder22
+    4300000: Grenade2_group1
+    4300002: group1_Fireworks_Barrell
+    4300004: group1_Grenade1
+    4300006: group1_Grenade10
+    4300008: group1_Grenade11
+    4300010: group1_Grenade12
+    4300012: group1_Grenade3
+    4300014: group1_Grenade4
+    4300016: group1_Grenade5
+    4300018: group1_Grenade6
+    4300020: group1_Grenade7
+    4300022: group1_Grenade8
+    4300024: group1_Grenade9
+    4300026: group1_pCylinder16
+    4300028: group1_pCylinder17
+    4300030: group1_pCylinder18
+    4300032: group1_pCylinder19
+    4300034: group1_pCylinder20
+    4300036: group1_pCylinder21
+    4300038: group1_pCylinder22
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

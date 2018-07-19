@@ -1,0 +1,275 @@
+fileFormatVersion: 2
+guid: 6dc83e9f039c49f4c9061636dacfcb1e
+timeCreated: 1521090001
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: man1npc:default1
+    100004: man1npc:Head
+    100006: man1npc:HeadTop_End
+    100008: man1npc:Hips
+    100010: man1npc:LeftArm
+    100012: man1npc:LeftFoot
+    100014: man1npc:LeftForeArm
+    100016: man1npc:LeftHand
+    100018: man1npc:LeftHandIndex1
+    100020: man1npc:LeftHandIndex2
+    100022: man1npc:LeftHandIndex3
+    100024: man1npc:LeftHandIndex4
+    100026: man1npc:LeftHandMiddle1
+    100028: man1npc:LeftHandMiddle2
+    100030: man1npc:LeftHandMiddle3
+    100032: man1npc:LeftHandMiddle4
+    100034: man1npc:LeftHandPinky1
+    100036: man1npc:LeftHandPinky2
+    100038: man1npc:LeftHandPinky3
+    100040: man1npc:LeftHandPinky4
+    100042: man1npc:LeftHandRing1
+    100044: man1npc:LeftHandRing2
+    100046: man1npc:LeftHandRing3
+    100048: man1npc:LeftHandRing4
+    100050: man1npc:LeftHandThumb1
+    100052: man1npc:LeftHandThumb2
+    100054: man1npc:LeftHandThumb3
+    100056: man1npc:LeftHandThumb4
+    100058: man1npc:LeftLeg
+    100060: man1npc:LeftShoulder
+    100062: man1npc:LeftToe_End
+    100064: man1npc:LeftToeBase
+    100066: man1npc:LeftUpLeg
+    100068: man1npc:Neck
+    100070: man1npc:polySurface20
+    100072: man1npc:polySurface21
+    100074: man1npc:pSphere1
+    100076: man1npc:pSphere2
+    100078: man1npc:pSphere3
+    100080: man1npc:RightArm
+    100082: man1npc:RightFoot
+    100084: man1npc:RightForeArm
+    100086: man1npc:RightHand
+    100088: man1npc:RightHandIndex1
+    100090: man1npc:RightHandIndex2
+    100092: man1npc:RightHandIndex3
+    100094: man1npc:RightHandIndex4
+    100096: man1npc:RightHandMiddle1
+    100098: man1npc:RightHandMiddle2
+    100100: man1npc:RightHandMiddle3
+    100102: man1npc:RightHandMiddle4
+    100104: man1npc:RightHandPinky1
+    100106: man1npc:RightHandPinky2
+    100108: man1npc:RightHandPinky3
+    100110: man1npc:RightHandPinky4
+    100112: man1npc:RightHandRing1
+    100114: man1npc:RightHandRing2
+    100116: man1npc:RightHandRing3
+    100118: man1npc:RightHandRing4
+    100120: man1npc:RightHandThumb1
+    100122: man1npc:RightHandThumb2
+    100124: man1npc:RightHandThumb3
+    100126: man1npc:RightHandThumb4
+    100128: man1npc:RightLeg
+    100130: man1npc:RightShoulder
+    100132: man1npc:RightToe_End
+    100134: man1npc:RightToeBase
+    100136: man1npc:RightUpLeg
+    100138: man1npc:Spine
+    100140: man1npc:Spine1
+    100142: man1npc:Spine2
+    400000: //RootNode
+    400002: man1npc:default1
+    400004: man1npc:Head
+    400006: man1npc:HeadTop_End
+    400008: man1npc:Hips
+    400010: man1npc:LeftArm
+    400012: man1npc:LeftFoot
+    400014: man1npc:LeftForeArm
+    400016: man1npc:LeftHand
+    400018: man1npc:LeftHandIndex1
+    400020: man1npc:LeftHandIndex2
+    400022: man1npc:LeftHandIndex3
+    400024: man1npc:LeftHandIndex4
+    400026: man1npc:LeftHandMiddle1
+    400028: man1npc:LeftHandMiddle2
+    400030: man1npc:LeftHandMiddle3
+    400032: man1npc:LeftHandMiddle4
+    400034: man1npc:LeftHandPinky1
+    400036: man1npc:LeftHandPinky2
+    400038: man1npc:LeftHandPinky3
+    400040: man1npc:LeftHandPinky4
+    400042: man1npc:LeftHandRing1
+    400044: man1npc:LeftHandRing2
+    400046: man1npc:LeftHandRing3
+    400048: man1npc:LeftHandRing4
+    400050: man1npc:LeftHandThumb1
+    400052: man1npc:LeftHandThumb2
+    400054: man1npc:LeftHandThumb3
+    400056: man1npc:LeftHandThumb4
+    400058: man1npc:LeftLeg
+    400060: man1npc:LeftShoulder
+    400062: man1npc:LeftToe_End
+    400064: man1npc:LeftToeBase
+    400066: man1npc:LeftUpLeg
+    400068: man1npc:Neck
+    400070: man1npc:polySurface20
+    400072: man1npc:polySurface21
+    400074: man1npc:pSphere1
+    400076: man1npc:pSphere2
+    400078: man1npc:pSphere3
+    400080: man1npc:RightArm
+    400082: man1npc:RightFoot
+    400084: man1npc:RightForeArm
+    400086: man1npc:RightHand
+    400088: man1npc:RightHandIndex1
+    400090: man1npc:RightHandIndex2
+    400092: man1npc:RightHandIndex3
+    400094: man1npc:RightHandIndex4
+    400096: man1npc:RightHandMiddle1
+    400098: man1npc:RightHandMiddle2
+    400100: man1npc:RightHandMiddle3
+    400102: man1npc:RightHandMiddle4
+    400104: man1npc:RightHandPinky1
+    400106: man1npc:RightHandPinky2
+    400108: man1npc:RightHandPinky3
+    400110: man1npc:RightHandPinky4
+    400112: man1npc:RightHandRing1
+    400114: man1npc:RightHandRing2
+    400116: man1npc:RightHandRing3
+    400118: man1npc:RightHandRing4
+    400120: man1npc:RightHandThumb1
+    400122: man1npc:RightHandThumb2
+    400124: man1npc:RightHandThumb3
+    400126: man1npc:RightHandThumb4
+    400128: man1npc:RightLeg
+    400130: man1npc:RightShoulder
+    400132: man1npc:RightToe_End
+    400134: man1npc:RightToeBase
+    400136: man1npc:RightUpLeg
+    400138: man1npc:Spine
+    400140: man1npc:Spine1
+    400142: man1npc:Spine2
+    2100000: No Name
+    2300000: man1npc:default1
+    3300000: man1npc:default1
+    4300000: man1npc:default1
+    4300002: man1npc:polySurface21
+    4300004: man1npc:polySurface20
+    4300006: man1npc:pSphere1
+    4300008: man1npc:pSphere2
+    4300010: man1npc:pSphere3
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: man1npc:polySurface20
+    13700002: man1npc:polySurface21
+    13700004: man1npc:pSphere1
+    13700006: man1npc:pSphere2
+    13700008: man1npc:pSphere3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 251
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

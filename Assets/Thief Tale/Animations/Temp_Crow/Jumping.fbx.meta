@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: b34a3c716e8520c4281b35d0db3263c6
+timeCreated: 1521132232
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Crow_GameBase_Rig_v01:Body_grp
+    100002: Crow_GameBase_Rig_v01:Crow_body
+    100004: Crow_GameBase_Rig_v01:Head
+    100006: Crow_GameBase_Rig_v01:HeadTop_End
+    100008: Crow_GameBase_Rig_v01:Hips
+    100010: Crow_GameBase_Rig_v01:LeftArm
+    100012: Crow_GameBase_Rig_v01:LeftFoot
+    100014: Crow_GameBase_Rig_v01:LeftForeArm
+    100016: Crow_GameBase_Rig_v01:LeftHand
+    100018: Crow_GameBase_Rig_v01:LeftHandIndex1
+    100020: Crow_GameBase_Rig_v01:LeftHandIndex2
+    100022: Crow_GameBase_Rig_v01:LeftHandIndex3
+    100024: Crow_GameBase_Rig_v01:LeftHandIndex4
+    100026: Crow_GameBase_Rig_v01:LeftLeg
+    100028: Crow_GameBase_Rig_v01:LeftShoulder
+    100030: Crow_GameBase_Rig_v01:LeftToe_End
+    100032: Crow_GameBase_Rig_v01:LeftToeBase
+    100034: Crow_GameBase_Rig_v01:LeftUpLeg
+    100036: Crow_GameBase_Rig_v01:Neck
+    100038: Crow_GameBase_Rig_v01:RightArm
+    100040: Crow_GameBase_Rig_v01:RightFoot
+    100042: Crow_GameBase_Rig_v01:RightForeArm
+    100044: Crow_GameBase_Rig_v01:RightHand
+    100046: Crow_GameBase_Rig_v01:RightHandIndex1
+    100048: Crow_GameBase_Rig_v01:RightHandIndex2
+    100050: Crow_GameBase_Rig_v01:RightHandIndex3
+    100052: Crow_GameBase_Rig_v01:RightHandIndex4
+    100054: Crow_GameBase_Rig_v01:RightLeg
+    100056: Crow_GameBase_Rig_v01:RightShoulder
+    100058: Crow_GameBase_Rig_v01:RightToe_End
+    100060: Crow_GameBase_Rig_v01:RightToeBase
+    100062: Crow_GameBase_Rig_v01:RightUpLeg
+    100064: Crow_GameBase_Rig_v01:skinCluster10Set
+    100066: Crow_GameBase_Rig_v01:skinCluster11Set
+    100068: Crow_GameBase_Rig_v01:skinCluster12Set
+    100070: Crow_GameBase_Rig_v01:skinCluster4Set
+    100072: Crow_GameBase_Rig_v01:skinCluster5Set
+    100074: Crow_GameBase_Rig_v01:skinCluster8Set
+    100076: Crow_GameBase_Rig_v01:skinCluster9Set
+    100078: Crow_GameBase_Rig_v01:Spine
+    100080: Crow_GameBase_Rig_v01:Spine1
+    100082: Crow_GameBase_Rig_v01:Spine2
+    100084: //RootNode
+    400000: Crow_GameBase_Rig_v01:Body_grp
+    400002: Crow_GameBase_Rig_v01:Crow_body
+    400004: Crow_GameBase_Rig_v01:Head
+    400006: Crow_GameBase_Rig_v01:HeadTop_End
+    400008: Crow_GameBase_Rig_v01:Hips
+    400010: Crow_GameBase_Rig_v01:LeftArm
+    400012: Crow_GameBase_Rig_v01:LeftFoot
+    400014: Crow_GameBase_Rig_v01:LeftForeArm
+    400016: Crow_GameBase_Rig_v01:LeftHand
+    400018: Crow_GameBase_Rig_v01:LeftHandIndex1
+    400020: Crow_GameBase_Rig_v01:LeftHandIndex2
+    400022: Crow_GameBase_Rig_v01:LeftHandIndex3
+    400024: Crow_GameBase_Rig_v01:LeftHandIndex4
+    400026: Crow_GameBase_Rig_v01:LeftLeg
+    400028: Crow_GameBase_Rig_v01:LeftShoulder
+    400030: Crow_GameBase_Rig_v01:LeftToe_End
+    400032: Crow_GameBase_Rig_v01:LeftToeBase
+    400034: Crow_GameBase_Rig_v01:LeftUpLeg
+    400036: Crow_GameBase_Rig_v01:Neck
+    400038: Crow_GameBase_Rig_v01:RightArm
+    400040: Crow_GameBase_Rig_v01:RightFoot
+    400042: Crow_GameBase_Rig_v01:RightForeArm
+    400044: Crow_GameBase_Rig_v01:RightHand
+    400046: Crow_GameBase_Rig_v01:RightHandIndex1
+    400048: Crow_GameBase_Rig_v01:RightHandIndex2
+    400050: Crow_GameBase_Rig_v01:RightHandIndex3
+    400052: Crow_GameBase_Rig_v01:RightHandIndex4
+    400054: Crow_GameBase_Rig_v01:RightLeg
+    400056: Crow_GameBase_Rig_v01:RightShoulder
+    400058: Crow_GameBase_Rig_v01:RightToe_End
+    400060: Crow_GameBase_Rig_v01:RightToeBase
+    400062: Crow_GameBase_Rig_v01:RightUpLeg
+    400064: Crow_GameBase_Rig_v01:skinCluster10Set
+    400066: Crow_GameBase_Rig_v01:skinCluster11Set
+    400068: Crow_GameBase_Rig_v01:skinCluster12Set
+    400070: Crow_GameBase_Rig_v01:skinCluster4Set
+    400072: Crow_GameBase_Rig_v01:skinCluster5Set
+    400074: Crow_GameBase_Rig_v01:skinCluster8Set
+    400076: Crow_GameBase_Rig_v01:skinCluster9Set
+    400078: Crow_GameBase_Rig_v01:Spine
+    400080: Crow_GameBase_Rig_v01:Spine1
+    400082: Crow_GameBase_Rig_v01:Spine2
+    400084: //RootNode
+    2100000: No Name
+    2300000: Crow_GameBase_Rig_v01:skinCluster10Set
+    2300002: Crow_GameBase_Rig_v01:skinCluster11Set
+    2300004: Crow_GameBase_Rig_v01:skinCluster12Set
+    2300006: Crow_GameBase_Rig_v01:skinCluster4Set
+    2300008: Crow_GameBase_Rig_v01:skinCluster5Set
+    2300010: Crow_GameBase_Rig_v01:skinCluster8Set
+    2300012: Crow_GameBase_Rig_v01:skinCluster9Set
+    3300000: Crow_GameBase_Rig_v01:skinCluster10Set
+    3300002: Crow_GameBase_Rig_v01:skinCluster11Set
+    3300004: Crow_GameBase_Rig_v01:skinCluster12Set
+    3300006: Crow_GameBase_Rig_v01:skinCluster4Set
+    3300008: Crow_GameBase_Rig_v01:skinCluster5Set
+    3300010: Crow_GameBase_Rig_v01:skinCluster8Set
+    3300012: Crow_GameBase_Rig_v01:skinCluster9Set
+    4300000: Crow_GameBase_Rig_v01:skinCluster8Set
+    4300002: Crow_GameBase_Rig_v01:Crow_body
+    4300004: Crow_GameBase_Rig_v01:skinCluster12Set
+    4300006: Crow_GameBase_Rig_v01:Body_grp
+    4300008: Crow_GameBase_Rig_v01:skinCluster11Set
+    4300010: Crow_GameBase_Rig_v01:skinCluster10Set
+    4300012: Crow_GameBase_Rig_v01:skinCluster9Set
+    4300014: Crow_GameBase_Rig_v01:skinCluster5Set
+    4300016: Crow_GameBase_Rig_v01:skinCluster4Set
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: Crow_GameBase_Rig_v01:Body_grp
+    13700002: Crow_GameBase_Rig_v01:Crow_body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      firstFrame: 30
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

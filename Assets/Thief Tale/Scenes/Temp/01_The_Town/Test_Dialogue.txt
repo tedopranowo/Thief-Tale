@@ -1,0 +1,9 @@
+The Dialogue_System script will print line by line.
+Putting a number sign will end the first section of dialogue.
+#<---This skips the line and ends the current dialogue.
+The repeat line will restart the dialogue at that line number.
+Names, and protraits are self explanitory. 
+Checking the toggle "Right" will put the portrait on the right side.
+If you put in a camera it will cut to that cam until another cam is added.
+Added cameras need to have thier "Depth" set to 1.
+It will auto return to the game play cam when dialogue finishes.

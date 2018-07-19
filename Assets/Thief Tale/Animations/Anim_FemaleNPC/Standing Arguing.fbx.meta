@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: 9c7e0fcd4926a184e9d1ab19e41b0458
+timeCreated: 1521090004
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: women1npc:default1
+    100004: women1npc:Head
+    100006: women1npc:HeadTop_End
+    100008: women1npc:Hips
+    100010: women1npc:LeftArm
+    100012: women1npc:LeftFoot
+    100014: women1npc:LeftForeArm
+    100016: women1npc:LeftHand
+    100018: women1npc:LeftHandIndex1
+    100020: women1npc:LeftHandIndex2
+    100022: women1npc:LeftHandIndex3
+    100024: women1npc:LeftHandIndex4
+    100026: women1npc:LeftHandMiddle1
+    100028: women1npc:LeftHandMiddle2
+    100030: women1npc:LeftHandMiddle3
+    100032: women1npc:LeftHandMiddle4
+    100034: women1npc:LeftHandPinky1
+    100036: women1npc:LeftHandPinky2
+    100038: women1npc:LeftHandPinky3
+    100040: women1npc:LeftHandPinky4
+    100042: women1npc:LeftHandRing1
+    100044: women1npc:LeftHandRing2
+    100046: women1npc:LeftHandRing3
+    100048: women1npc:LeftHandRing4
+    100050: women1npc:LeftHandThumb1
+    100052: women1npc:LeftHandThumb2
+    100054: women1npc:LeftHandThumb3
+    100056: women1npc:LeftHandThumb4
+    100058: women1npc:LeftLeg
+    100060: women1npc:LeftShoulder
+    100062: women1npc:LeftToe_End
+    100064: women1npc:LeftToeBase
+    100066: women1npc:LeftUpLeg
+    100068: women1npc:Neck
+    100070: women1npc:polySurface22
+    100072: women1npc:polySurface28
+    100074: women1npc:pSphere2
+    100076: women1npc:pSphere3
+    100078: women1npc:RightArm
+    100080: women1npc:RightFoot
+    100082: women1npc:RightForeArm
+    100084: women1npc:RightHand
+    100086: women1npc:RightHandIndex1
+    100088: women1npc:RightHandIndex2
+    100090: women1npc:RightHandIndex3
+    100092: women1npc:RightHandIndex4
+    100094: women1npc:RightHandMiddle1
+    100096: women1npc:RightHandMiddle2
+    100098: women1npc:RightHandMiddle3
+    100100: women1npc:RightHandMiddle4
+    100102: women1npc:RightHandPinky1
+    100104: women1npc:RightHandPinky2
+    100106: women1npc:RightHandPinky3
+    100108: women1npc:RightHandPinky4
+    100110: women1npc:RightHandRing1
+    100112: women1npc:RightHandRing2
+    100114: women1npc:RightHandRing3
+    100116: women1npc:RightHandRing4
+    100118: women1npc:RightHandThumb1
+    100120: women1npc:RightHandThumb2
+    100122: women1npc:RightHandThumb3
+    100124: women1npc:RightHandThumb4
+    100126: women1npc:RightLeg
+    100128: women1npc:RightShoulder
+    100130: women1npc:RightToe_End
+    100132: women1npc:RightToeBase
+    100134: women1npc:RightUpLeg
+    100136: women1npc:Spine
+    100138: women1npc:Spine1
+    100140: women1npc:Spine2
+    100142: women1npc:topoSymmetrySet
+    400000: //RootNode
+    400002: women1npc:default1
+    400004: women1npc:Head
+    400006: women1npc:HeadTop_End
+    400008: women1npc:Hips
+    400010: women1npc:LeftArm
+    400012: women1npc:LeftFoot
+    400014: women1npc:LeftForeArm
+    400016: women1npc:LeftHand
+    400018: women1npc:LeftHandIndex1
+    400020: women1npc:LeftHandIndex2
+    400022: women1npc:LeftHandIndex3
+    400024: women1npc:LeftHandIndex4
+    400026: women1npc:LeftHandMiddle1
+    400028: women1npc:LeftHandMiddle2
+    400030: women1npc:LeftHandMiddle3
+    400032: women1npc:LeftHandMiddle4
+    400034: women1npc:LeftHandPinky1
+    400036: women1npc:LeftHandPinky2
+    400038: women1npc:LeftHandPinky3
+    400040: women1npc:LeftHandPinky4
+    400042: women1npc:LeftHandRing1
+    400044: women1npc:LeftHandRing2
+    400046: women1npc:LeftHandRing3
+    400048: women1npc:LeftHandRing4
+    400050: women1npc:LeftHandThumb1
+    400052: women1npc:LeftHandThumb2
+    400054: women1npc:LeftHandThumb3
+    400056: women1npc:LeftHandThumb4
+    400058: women1npc:LeftLeg
+    400060: women1npc:LeftShoulder
+    400062: women1npc:LeftToe_End
+    400064: women1npc:LeftToeBase
+    400066: women1npc:LeftUpLeg
+    400068: women1npc:Neck
+    400070: women1npc:polySurface22
+    400072: women1npc:polySurface28
+    400074: women1npc:pSphere2
+    400076: women1npc:pSphere3
+    400078: women1npc:RightArm
+    400080: women1npc:RightFoot
+    400082: women1npc:RightForeArm
+    400084: women1npc:RightHand
+    400086: women1npc:RightHandIndex1
+    400088: women1npc:RightHandIndex2
+    400090: women1npc:RightHandIndex3
+    400092: women1npc:RightHandIndex4
+    400094: women1npc:RightHandMiddle1
+    400096: women1npc:RightHandMiddle2
+    400098: women1npc:RightHandMiddle3
+    400100: women1npc:RightHandMiddle4
+    400102: women1npc:RightHandPinky1
+    400104: women1npc:RightHandPinky2
+    400106: women1npc:RightHandPinky3
+    400108: women1npc:RightHandPinky4
+    400110: women1npc:RightHandRing1
+    400112: women1npc:RightHandRing2
+    400114: women1npc:RightHandRing3
+    400116: women1npc:RightHandRing4
+    400118: women1npc:RightHandThumb1
+    400120: women1npc:RightHandThumb2
+    400122: women1npc:RightHandThumb3
+    400124: women1npc:RightHandThumb4
+    400126: women1npc:RightLeg
+    400128: women1npc:RightShoulder
+    400130: women1npc:RightToe_End
+    400132: women1npc:RightToeBase
+    400134: women1npc:RightUpLeg
+    400136: women1npc:Spine
+    400138: women1npc:Spine1
+    400140: women1npc:Spine2
+    400142: women1npc:topoSymmetrySet
+    2100000: No Name
+    2300000: women1npc:default1
+    2300002: women1npc:topoSymmetrySet
+    3300000: women1npc:default1
+    3300002: women1npc:topoSymmetrySet
+    4300000: women1npc:default1
+    4300002: women1npc:topoSymmetrySet
+    4300004: women1npc:polySurface28
+    4300006: women1npc:pSphere3
+    4300008: women1npc:pSphere2
+    4300010: women1npc:polySurface22
+    7400000: mixamo.com
+    9500000: //RootNode
+    13700000: women1npc:polySurface22
+    13700002: women1npc:polySurface28
+    13700004: women1npc:pSphere2
+    13700006: women1npc:pSphere3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: mixamo.com
+      takeName: mixamo.com
+      firstFrame: 0
+      lastFrame: 1247
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: ea594a1cd67042c49a37018df2d168af
+timeCreated: 1518717678
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ankle_L
+    100002: ankle_R
+    100004: chest1
+    100006: chest2
+    100008: //RootNode
+    100010: crow1UV1:polySurface2
+    100012: foot_cntrl_L
+    100014: foot_cntrl_L_grp
+    100016: foot_cntrl_r
+    100018: foot_cntrl_R_grp
+    100020: foot_L
+    100022: foot_R
+    100024: group3
+    100026: hair1
+    100028: hair2
+    100030: hair3
+    100032: hand_l_cntrl1
+    100034: hand_R_cntrl
+    100036: head1
+    100038: head2
+    100040: head_cntrl3
+    100042: hip
+    100044: hip_1_L1
+    100046: hip_1_R
+    100048: hips_cntrl
+    100050: ik_r_foot
+    100052: index1_L
+    100054: index1_R
+    100056: index2_L
+    100058: index2_R
+    100060: index3_L
+    100062: index3_R
+    100064: knee2_L
+    100066: knee2_R
+    100068: Knee_L_cntrl
+    100070: knee_L_cntrl
+    100072: Knee_R_cntrl
+    100074: Knee_r_cntrl_grp
+    100076: L_arm_elbow
+    100078: L_arm_shoulder
+    100080: L_arm_wrist
+    100082: l_arm_wrist_cntrl
+    100084: L_elbow_cntrl
+    100086: l_ik_foot
+    100088: l_ik_leg
+    100090: l_shoulder_cntrl
+    100092: l_shoulder_cntrl 1
+    100094: middle1_L
+    100096: middle1_R
+    100098: middle2_L
+    100100: middle2_R
+    100102: middle3_L
+    100104: middle3_R
+    100106: neck1
+    100108: neck2
+    100110: pinkie1_L
+    100112: pinkie1_R
+    100114: pinkie2_L
+    100116: pinkie2_R
+    100118: pinkie3_L
+    100120: pinkie3_R
+    100122: polySurface4
+    100124: R_arm_elbow
+    100126: R_arm_shoulder
+    100128: R_arm_wrist
+    100130: R_elbow_cntrl1
+    100132: r_ik_leg
+    100134: R_wrist_cntrl2
+    100136: ring1_L
+    100138: ring1_R
+    100140: ring2_L
+    100142: ring2_R
+    100144: ring_2_L
+    100146: ring_3_R
+    100148: root_joint
+    100150: Shoulder_R_cntrl
+    100152: spine1_cntrl
+    100154: spine2_cntrl1
+    100156: spine3_cntrl2
+    100158: thumb1_L
+    100160: thumb1_R
+    100162: thumb2_L
+    100164: thumb2_R
+    100166: thumb3_L
+    100168: thumb3_R
+    100170: worl_cntrl
+    100172: wrist2_root_L
+    100174: wrist2_root_R
+    400000: ankle_L
+    400002: ankle_R
+    400004: chest1
+    400006: chest2
+    400008: //RootNode
+    400010: crow1UV1:polySurface2
+    400012: foot_cntrl_L
+    400014: foot_cntrl_L_grp
+    400016: foot_cntrl_r
+    400018: foot_cntrl_R_grp
+    400020: foot_L
+    400022: foot_R
+    400024: group3
+    400026: hair1
+    400028: hair2
+    400030: hair3
+    400032: hand_l_cntrl1
+    400034: hand_R_cntrl
+    400036: head1
+    400038: head2
+    400040: head_cntrl3
+    400042: hip
+    400044: hip_1_L1
+    400046: hip_1_R
+    400048: hips_cntrl
+    400050: ik_r_foot
+    400052: index1_L
+    400054: index1_R
+    400056: index2_L
+    400058: index2_R
+    400060: index3_L
+    400062: index3_R
+    400064: knee2_L
+    400066: knee2_R
+    400068: Knee_L_cntrl
+    400070: knee_L_cntrl
+    400072: Knee_R_cntrl
+    400074: Knee_r_cntrl_grp
+    400076: L_arm_elbow
+    400078: L_arm_shoulder
+    400080: L_arm_wrist
+    400082: l_arm_wrist_cntrl
+    400084: L_elbow_cntrl
+    400086: l_ik_foot
+    400088: l_ik_leg
+    400090: l_shoulder_cntrl
+    400092: l_shoulder_cntrl 1
+    400094: middle1_L
+    400096: middle1_R
+    400098: middle2_L
+    400100: middle2_R
+    400102: middle3_L
+    400104: middle3_R
+    400106: neck1
+    400108: neck2
+    400110: pinkie1_L
+    400112: pinkie1_R
+    400114: pinkie2_L
+    400116: pinkie2_R
+    400118: pinkie3_L
+    400120: pinkie3_R
+    400122: polySurface4
+    400124: R_arm_elbow
+    400126: R_arm_shoulder
+    400128: R_arm_wrist
+    400130: R_elbow_cntrl1
+    400132: r_ik_leg
+    400134: R_wrist_cntrl2
+    400136: ring1_L
+    400138: ring1_R
+    400140: ring2_L
+    400142: ring2_R
+    400144: ring_2_L
+    400146: ring_3_R
+    400148: root_joint
+    400150: Shoulder_R_cntrl
+    400152: spine1_cntrl
+    400154: spine2_cntrl1
+    400156: spine3_cntrl2
+    400158: thumb1_L
+    400160: thumb1_R
+    400162: thumb2_L
+    400164: thumb2_R
+    400166: thumb3_L
+    400168: thumb3_R
+    400170: worl_cntrl
+    400172: wrist2_root_L
+    400174: wrist2_root_R
+    2100000: body
+    2100002: face
+    4300000: polySurface4
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: polySurface4
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
